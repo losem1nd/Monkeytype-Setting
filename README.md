@@ -18,7 +18,7 @@ youtube:
 discord:
 tiktok: 
 
-link used this repository: monkeytype, github
+link used this repository: monkeytype, github<br>
 resources need: computer
 date created: 2025/4/1
 version of this file: v 0.9
